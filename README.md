@@ -7,17 +7,21 @@ Jessica Ng
 
 ###Language Interpreter/Data Scraping
 **Andrew Lee, Jessica Ng, Elia Portnoy, & Vanessa Yan**
+
 *A website that has a search engine that acts as a question-answer service. Can answer who, where, and when questions (with varying degrees of accuracy).*
+
 https://github.com/VanessaY/QuerySearch.git
 
 ###Blogging Engine (SQLite)
 *A simple blogging website, that allows people to make posts on a single and add comments to a post*
+
 **Ahmed Abrar, Nathaniel Brassell, Adriel Mendoza, & Jessica Ng** 
 
 https://github.com/SingleDreamer/Blog_Project.git
 
 ###API
 *A website that uses an API to gather data*
+
 **Jessica Ng & Cindy Wu**
 
 https://github.com/SingleDreamer/api_project.git
