@@ -7,14 +7,17 @@ Jessica Ng
 
 ###Language Interpreter/Data Scraping
 **Andrew Lee, Jessica Ng, Elia Portnoy, & Vanessa Yan**
+
 https://github.com/VanessaY/QuerySearch.git
 
 ###Blogging Engine (SQLite)
 **Ahmed Abrar, Nathaniel Brassell, Adriel Mendoza, & Jessica Ng** 
+
 https://github.com/SingleDreamer/Blog_Project.git
 
 ###API
 **Jessica Ng & Cindy Wu**
+
 https://github.com/SingleDreamer/api_project.git
 
 ##Mini-Projects
