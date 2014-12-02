@@ -38,4 +38,4 @@ https://github.com/SingleDreamer/api_project.git
   * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/login/elia_jessica"> 5 / login / elia_jessica</a>
 * To Do List
   * Jessica Ng
-  * <a hred = "https://github.com/stuycs-softdev/submissions/tree/master/5/todo/jessica_ng"> 5 / todo / jessica_ng </a>
+  * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/todo/jessica_ng"> 5 / todo / jessica_ng </a>
