@@ -5,8 +5,8 @@ Jessica Ng
 
 ##Final Project
 
-###Assassin Game
-
+###Anathema
+####Assassin Game
 **Nathaniel Brassell, Jason Lu, Jessica Ng, & Vanessa Yan**
 
 *A web based game that is interactive in real life; assassins are sent targets and must track them down. Last one standing wins.*
