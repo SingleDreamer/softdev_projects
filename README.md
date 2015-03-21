@@ -41,16 +41,16 @@ https://github.com/SingleDreamer/api_project.git
 ##Mini-Projects
 * Flask/Jinja/CSS (Login)
   * Jessica Ng & Fawn Wong
-  * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/intro-proj1/jessica_fawn"> 5 / intro-proj1 / jessica_fawn / </a>
+  * <a href = "https://github.com/stuycs-softdev/submissions-fall-2014/tree/master/5/intro-proj1/jessica_fawn"> 5 / intro-proj1 / jessica_fawn / </a>
 * Regular Expressions (RegExp)
   * Anish Malhotra & Jessica Ng
-  * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/regexp/anish_jessica">  5 / regexp / anish_jessica / </a>
+  * <a href = "https://github.com/stuycs-softdev/submissions-fall-2014/tree/master/5/regexp/anish_jessica">  5 / regexp / anish_jessica / </a>
 * MongoDB Login
   * Jessica Ng & Elia Portnoy
-  * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/login/elia_jessica"> 5 / login / elia_jessica</a>
+  * <a href = "https://github.com/stuycs-softdev/submissions-fall-2014/tree/master/5/login/elia_jessica"> 5 / login / elia_jessica</a>
 * To Do List
   * Jessica Ng
-  * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/todo/jessica_ng"> 5 / todo / jessica_ng </a>
+  * <a href = "https://github.com/stuycs-softdev/submissions-fall-2014/tree/master/5/todo/jessica_ng"> 5 / todo / jessica_ng </a>
 * Invisible Thluffy
   * Miranda Cahiken & Jessica Ng
-  * <a href = "https://github.com/stuycs-softdev/submissions/tree/master/5/invisiblethluffy/miranda_jessica"> 5 / invisiblethluffy / miranda_jessica </a>
+  * <a href = "https://github.com/stuycs-softdev/submissions-fall-2014/tree/master/5/invisiblethluffy/miranda_jessica"> 5 / invisiblethluffy / miranda_jessica </a>
